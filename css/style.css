@@ -106,7 +106,7 @@ body {
     padding: 0 60px;
     background: 
         linear-gradient(rgba(246,245,241,0.6), rgba(246,245,241,0.6)),
-        url("../img/hero.svg") center/cover no-repeat;
+        url("../img/hero.webp") center/cover no-repeat;
 }
 
 .hero-content {
